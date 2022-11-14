@@ -14,6 +14,6 @@
 
 
 <h2> System design </h2>
-<img src= "Garage_System_design.png"/>
+<img src= "Garage_System_design.PNG"/>
 
 <br>
